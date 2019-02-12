@@ -1,0 +1,24 @@
+# Swaggerb00st.github.io
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+body {
+  background-color: Green;
+  text-align: center;
+  color: White;
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+
+<h1>Swaggerboost</h1>
+<p>Sup my guy:) i see you`re not fly.</p>
+<p>Watch this video to get yourself swagged up</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/agioKkXbydE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zyvl7r1NXIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>
